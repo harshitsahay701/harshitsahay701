@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Harshit+Sahay;Finance-Driven+AI+Blockchain+Builder;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Harshit+Sahay;Quantitative+Finance+%26+AI+Trading+Engineer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-*I build intelligent, high-impact digital systems at the intersection of finance, AI, blockchain, and product engineering. My focus is turning complex ideas into practical, visually polished, and scalable solutions.*
+*I build intelligent, high-impact digital systems at the intersection of quantitative finance, AI trading, decentralized networks, and product engineering. My focus is turning complex algorithms into practical, visually polished, and highly scalable solutions.*
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently working on **AI agent systems, blockchain innovation, and financial forecasting**
+* 🔭 I’m currently working on **AI agent systems, decentralized networks, and quantitative financial forecasting**
 * 🌱 I’m currently diving deeper into **Advanced AI agent architectures & RAG with vector databases**
 * 💬 Ask me about **Finance systems, AI automation, Web3, and UI/UX design**
 * ⚡ Philosophy: **Clean design matters as much as strong logic. I like building things that are both powerful and visually impressive.**
